@@ -11,6 +11,12 @@
 
 *Supports Claude Desktop, ChatGPT Desktop, Cursor, VS Code, AI CLI tools, and Web browsers.*
 
+<br/>
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="CMDA Application Interface" width="540" />
+</p>
+
 </div>
 
 ---
